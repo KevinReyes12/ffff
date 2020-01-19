@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\bin\Debug\netcoreapp2.1\ejemploLINQ.deps.json
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\bin\Debug\netcoreapp2.1\ejemploLINQ.runtimeconfig.json
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\bin\Debug\netcoreapp2.1\ejemploLINQ.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\bin\Debug\netcoreapp2.1\ejemploLINQ.dll
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\bin\Debug\netcoreapp2.1\ejemploLINQ.pdb
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.dll
+C:\Users\USUARIO\source\repos\ejemploLINQ\ejemploLINQ\obj\Debug\netcoreapp2.1\ejemploLINQ.pdb
